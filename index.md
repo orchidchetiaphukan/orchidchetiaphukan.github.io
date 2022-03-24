@@ -1,8 +1,10 @@
-## Portfolio
+## Contact
 ---
-### Category Name 0
 [LinkedIn](https://www.linkedin.com/in/orchid-chetia-phukan-7ba816169/)
+[Email: orchidchetiaphukan1@gmail.com]
+---
 
+## Portfolio
 ---
 
 ### Category Name 1 
