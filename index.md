@@ -7,7 +7,7 @@
 [LinkedIn](https://www.linkedin.com/in/orchid-chetia-phukan-7ba816169/)
 
 ----
-[Email](orchidchetiaphukan1@gmail.com)
+Email:orchidchetiaphukan1@gmail.com
 
 ---
 
