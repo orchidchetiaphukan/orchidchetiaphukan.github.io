@@ -2,12 +2,13 @@
 ## Portfolio
 ---
 
-### Contact
+### About
 
-[LinkedIn](https://www.linkedin.com/in/orchid-chetia-phukan-7ba816169/)
+Hello! This is Orchid Chetia Phukan. I am currently pursuing my Master's in Data Science and Machine Learning at PES University, Bangalore, India.
 
-----
-Email: orchidchetiaphukan1@gmail.com
+My reserach interests include Natural Language Processing, Geometric Deep Learning, Computer Vision.
+
+I am currently a Research Intern at Artificial Intelligence Institute at University of South Carolina.
 
 ---
 
