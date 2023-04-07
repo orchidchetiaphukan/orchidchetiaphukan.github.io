@@ -40,11 +40,17 @@ My reserach interests include Speech Processing, Natural Language Processing, Mu
 
 -> Research Intern at <a href="https://aiisc.ai/">AI Institute at University of South Carolina</a>  (Dec'21 - June'22)
 
+---
+
 ### Teaching
 
 -> Teaching Assistant (TA) at Institute of Computer Science, University of Tartu, Estonia for Business Data Analytics Course (Spring 2023, 2022)
 
+---
 
+### Volunteering
+
+-> Volunteered at  <a href="https://www.knowledgegraph.tech/kgc2021/">The Knowledge Graph Conference (KGC) 2021</a>
 
 
 
