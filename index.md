@@ -26,7 +26,7 @@ My reserach interests include Speech Processing, Natural Language Processing, Mu
 
 ### Journals
 
-"*"
+-> (<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13239">https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13239</a> (Expert Systems 2023, IF: 2.812)
 
 ---
 
