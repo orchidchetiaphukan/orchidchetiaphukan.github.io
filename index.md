@@ -4,7 +4,7 @@
 
 ### About
 
-Hello! This is Orchid Chetia Phukan. I am currently a Ph.D. Scholar at a href="https://iiitd.ac.in/">IIIT-Delhi</a>.
+Hello! This is Orchid Chetia Phukan. I am currently a Ph.D. Scholar at <a href="https://iiitd.ac.in/">IIIT-Delhi</a>.
 My reserach interests include Speech Processing, Natural Language Processing, Multimedia Systems, and AI in Healthcare.
 
 I am currently a Research Intern at Artificial Intelligence Institute at University of South Carolina.
