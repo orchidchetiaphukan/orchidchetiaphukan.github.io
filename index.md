@@ -1,29 +1,26 @@
 
-## Portfolio
----
+### About Me
 
-### About
-
-Hello! This is Orchid Chetia Phukan. I am currently a Ph.D. Scholar at <a href="https://iiitd.ac.in/">IIIT-Delhi</a>, India working with  <a href="http://faculty.iiitd.ac.in/~arunb/">Dr. Arun Balaji Buduru</a> (Usable Security Group, IIIT-Delhi, India) and <a href="https://rajeshsharma.cs.ut.ee/">Dr. Rajesh Sharma</a> (<a href="https://css.cs.ut.ee/people.html/">CSS</a> Group, <a href="https://ut.ee/en"> University of Tartu</a>, Estonia).
+Hello! This is Orchid Chetia Phukan. I am currently a Ph.D. Scholar at <a href="https://iiitd.ac.in/">IIIT-Delhi</a> working with  <a href="http://faculty.iiitd.ac.in/~arunb/">Dr. Arun Balaji Buduru</a> (Usable Security Group, IIIT-Delhi) and <a href="https://rajeshsharma.cs.ut.ee/">Dr. Rajesh Sharma</a> (<a href="https://css.cs.ut.ee/people.html/">CSS</a> Group, <a href="https://ut.ee/en"> University of Tartu</a>, Estonia).
 My reserach interests include Speech Processing, Natural Language Processing, Multimedia Systems, and AI in Healthcare.
 
 
 ---
 
-### Projects
+[comment]: <> (### Projects)
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[comment]: <> ([Project 1 Title](/sample_page)
+[comment]: <> (<img src="images/dummy_thumbnail.jpg?raw=true"/>)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[comment]: <> (---)
+[comment]: <> ([Project 2 Title](/pdf/sample_presentation.pdf))
+[comment]: <> (<img src="images/dummy_thumbnail.jpg?raw=true"/>)
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[comment]: <> (---)
+[comment]: <> ([Project 3 Title](http://example.com/))
+[comment]: <> (<img src="images/dummy_thumbnail.jpg?raw=true"/>)
 
----
+[comment]: <> (---)
 
 ### Publications
 
