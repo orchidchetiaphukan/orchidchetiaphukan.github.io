@@ -26,7 +26,7 @@ My reserach interests include Speech Processing, Natural Language Processing, Mu
 
 ### Journals
 
--> (<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13239">https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13239</a> (Expert Systems 2023, IF: 2.812)
+-> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13239">Stress recognition with multi-modal sensing using bootstrapped ensemble deep learning model</a> (Expert Systems 2023, IF: 2.812)
 
 ---
 
