@@ -32,7 +32,13 @@ My reserach interests include Speech Processing, Natural Language Processing, Mu
 
 ### Talks, Honors and Achievements
 
--> Presented a session at FDP- Anil Neerukonda Institute of technology and sciences, Visakhapatnam, India on the topic of Foundations and Applications of AI in Healthcare with a specific focus on stress recognition through wearable sensors with the application of TinyML.
+-> Presented a session at FDP- Anil Neerukonda Institute of technology and sciences, Visakhapatnam, India on the topic of Foundations and Applications of AI in Healthcare with a specific focus on stress recognition through wearable sensors with the application of TinyML
+
+---
+
+### Experience
+
+-> Research Intern at <a href="https://aiisc.ai/">AI Institute at University of South Carolina</a>  (Dec'21 - June'22)
 
 ### Teaching
 
