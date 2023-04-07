@@ -30,6 +30,14 @@ My reserach interests include Speech Processing, Natural Language Processing, Mu
 
 ---
 
+### Talks, Honors and Achievements
+
+-> Presented a session at FDP- Anil Neerukonda Institute of technology and sciences, Visakhapatnam, India on the topic of Foundations and Applications of AI in Healthcare with a specific focus on stress recognition through wearable sensors with the application of TinyML.
+
+### Teaching
+
+-> Teaching Assistant (TA) at Institute of Computer Science, University of Tartu, Estonia for Business Data Analytics Course (Spring 2023, 2022)
+
 
 
 
