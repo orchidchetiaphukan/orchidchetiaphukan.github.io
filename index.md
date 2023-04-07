@@ -4,8 +4,7 @@
 
 ### About
 
-Hello! This is Orchid Chetia Phukan. I am currently pursuing my Master's in Data Science and Machine Learning at PES University, Bangalore, India.
-
+Hello! This is Orchid Chetia Phukan. I am currently a Ph.D. Scholar at IIITD.
 My reserach interests include Natural Language Processing, Geometric Deep Learning.
 
 I am currently a Research Intern at Artificial Intelligence Institute at University of South Carolina.
