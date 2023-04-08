@@ -44,7 +44,7 @@ My reserach interests include Speech Processing, Natural Language Processing, Mu
 
 ### Teaching
 
--> Teaching Assistant (TA) at Institute of Computer Science, University of Tartu, Estonia for Business Data Analytics Course (Spring 2023, 2022)
+-> Teaching Assistant (TA) at Institute of Computer Science, University of Tartu, Estonia for Business Data Analytics Course (Spring 2023, Spring 2022)
 
 ---
 
