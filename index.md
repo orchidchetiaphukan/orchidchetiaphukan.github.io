@@ -26,7 +26,8 @@ My reserach interests include Speech Processing, Natural Language Processing, Mu
 
 ### Journals
 
--> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13239">Stress recognition with multi-modal sensing using bootstrapped ensemble deep learning model</a> (Expert Systems 2023, IF: 2.812)
+[comment]: <> (-> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13239">Stress recognition with multi-modal sensing using bootstrapped ensemble deep learning model</a> (Expert Systems 2023, IF: 2.812))
+-> Transforming the Embeddings: A Lightweight Technique for Speech Emotion Recognition Tasks (Accepted @ INTERSPEECH 2023)
 
 ---
 
