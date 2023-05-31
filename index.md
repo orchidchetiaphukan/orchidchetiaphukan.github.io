@@ -42,23 +42,22 @@ My reserach interests include Speech and Language Processing. With specific inte
 -> Research Intern at <a href="https://aiisc.ai/">AI Institute at University of South Carolina</a>  (Dec'21 - June'22)
 
 ---
-### Supervision and Mentorship
--> <a href="https://www.linkedin.com/in/shubhamsingh0512/">Shubham Singh</a> (BIT Mesra, India, May'23-)
--
--> <a href="https://www.linkedin.com/in/ankit-sharma-1a67931bb/">Ankit Sharma</a> (IIT Ropar, India, Feb'23-)
--
--> <a href="https://www.linkedin.com/in/reena-vaziri-834102a7/">Reena Vaziri</a> (Supervised for Master's Thesis, University of Tartu, Estonia, Dec'22 - Jun'23) 
-
----
 ### Teaching
 
 -> Teaching Assistant (TA) at Institute of Computer Science, University of Tartu, Estonia for Business Data Analytics Course (Spring 2023, Spring 2022)
 
 ---
-
 ### Volunteering
 
 -> Volunteered at  <a href="https://www.knowledgegraph.tech/kgc2021/">The Knowledge Graph Conference (KGC) 2021</a>
+
+---
+### Supervision and Mentorship
+-> <a href="https://www.linkedin.com/in/shubhamsingh0512/">Shubham Singh</a> (BIT Mesra, India, May'23-)<br>
+-> <a href="https://www.linkedin.com/in/ankit-sharma-1a67931bb/">Ankit Sharma</a> (IIT Ropar, India, Feb'23-)<br>
+-> <a href="https://www.linkedin.com/in/reena-vaziri-834102a7/">Reena Vaziri</a> (Supervised for Master's Thesis, University of Tartu, Estonia, Dec'22 - Jun'23) 
+
+
 
 
 
