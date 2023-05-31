@@ -43,6 +43,8 @@ My reserach interests include Speech and Language Processing. With specific inte
 
 ---
 ### Supervision and Mentorship
+-> <a href="https://www.linkedin.com/in/shubhamsingh0512/">Shubham Singh</a> (BIT Mesra, India, May'23-)
+-> <a href="https://www.linkedin.com/in/ankit-sharma-1a67931bb/">Ankit Sharma</a> (IIT Ropar, India, Feb'23-)
 -> <a href="https://www.linkedin.com/in/reena-vaziri-834102a7/">Reena Vaziri</a> (Supervised for Master's Thesis, University of Tartu, Estonia, Dec'22 - Jun'23) 
 
 ---
