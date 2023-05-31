@@ -27,13 +27,14 @@ My reserach interests include Speech and Language Processing. With specific inte
 ### Journals
 
 [comment]: <> (-> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13239">Stress recognition with multi-modal sensing using bootstrapped ensemble deep learning model</a> (Expert Systems 2023, IF: 2.812))
--> Transforming the Embeddings: A Lightweight Technique for Speech Emotion Recognition Tasks (Accepted @ INTERSPEECH 2023)
+-> <a href="https://arxiv.org/abs/2305.18640">Transforming the Embeddings: A Lightweight Technique for Speech Emotion Recognition Tasks</a> (Accepted @ INTERSPEECH 2023)
 
 ---
 
 ### Talks, Honors and Achievements
 
--> Presented a session at FDP- Anil Neerukonda Institute of technology and sciences, Visakhapatnam, India on the topic of Foundations and Applications of AI in Healthcare with a specific focus on stress recognition through wearable sensors with the application of TinyML
+-> Presented a session at FDP- Anil Neerukonda Institute of technology and sciences, Visakhapatnam, India on the topic of Foundations and Applications of AI in Healthcare with a specific focus on stress recognition through wearable sensors with the application of TinyML .
+-> 
 
 ---
 
@@ -42,7 +43,10 @@ My reserach interests include Speech and Language Processing. With specific inte
 -> Research Intern at <a href="https://aiisc.ai/">AI Institute at University of South Carolina</a>  (Dec'21 - June'22)
 
 ---
+### Supervision and Mentorship
+-> <a href="https://www.linkedin.com/in/reena-vaziri-834102a7/">Reena Vaziri</a> (Supervised for Master's Thesis, University of Tartu, Estonia) 
 
+---
 ### Teaching
 
 -> Teaching Assistant (TA) at Institute of Computer Science, University of Tartu, Estonia for Business Data Analytics Course (Spring 2023, Spring 2022)
