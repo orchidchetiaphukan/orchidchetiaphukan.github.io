@@ -57,8 +57,12 @@ My reserach interests include Speech and Language Processing & Deep Learning.
 
 ---
 ### Supervision and Mentorship
+#### Supervision
 -> <a href="https://www.linkedin.com/in/reena-vaziri-834102a7/">Reena Vaziri</a> (Supervised for Master's Thesis, University of Tartu, Estonia, Dec'22 - Jun'23) 
-
+#### Mentorship
+-> <a href="https://www.linkedin.com/in/ankit-sharma-dev/">Ankit Sharma</a> (IIT Ropar, India, May'23 - ) 
+-> <a href="https://www.linkedin.com/in/shubhamsingh0512/">Shubham Singh</a> (Birla Institute of Technology, Mesra, India, May'23- ) 
+-> <a href="https://www.linkedin.com/in/ankita-das-77030016b/">Ankita Das</a> (IIIT Guwahati, India, June'23 - ) 
 
 
 
