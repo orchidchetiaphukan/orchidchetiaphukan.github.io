@@ -7,9 +7,10 @@ My reserach interests include Speech Processing & Deep Learning.
 Specific focus on:
 1. Speech Emotion Recognition and Computational Paralinguistics
 <br>
-2. Analyzing Speech for Health-related diagnostics
+2. Audio Deepfake Detection
 <br>
-3. Audio Deepfake Detection
+3. Analyzing Speech for Health-related diagnostics
+
 
 
 ---
