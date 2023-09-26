@@ -9,7 +9,7 @@ Specific focus on:
 <br>
 2. Audio Deepfake Detection
 <br>
-3. Analyzing Speech for Health-related diagnostics
+3. Analyzing Speech for Health-related Diagnostics
 <br>
 4. Analyzing Speech for Forensic Applications
 
