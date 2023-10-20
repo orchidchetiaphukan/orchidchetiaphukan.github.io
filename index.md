@@ -77,7 +77,7 @@ Specific focus on:
 <br>
 -> <a href="https://www.linkedin.com/in/devyani-koshal-392428276/">Devyani Koshal</a> (IIIT Delhi, India, August'23 - ) 
 <br>
--> <a href="">Panchal Nayak</a> (VIT Vellore, India, September'23 - ) 
+-> Panchal Nayak (VIT Vellore, India, September'23 - ) 
 
 
 
