@@ -4,7 +4,7 @@
 Hello! This is Orchid Chetia Phukan. I am currently a Ph.D. Scholar at <a href="https://iiitd.ac.in/">IIIT-Delhi</a>.
 My reserach interests include Speech Processing & Deep Learning. 
 <br>
-Specific focus on:
+With specific focus on:
 1. Speech Emotion Recognition and Computational Paralinguistics
 <br>
 2. Audio Deepfake Detection
