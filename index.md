@@ -2,16 +2,7 @@
 ## About Me
 
 Hello! This is Orchid Chetia Phukan. I am currently a Ph.D. Scholar at <a href="https://iiitd.ac.in/">IIIT-Delhi</a>.
-My reserach interests include Speech Processing & Deep Learning. 
-<br>
-With specific focus on:
-1. Speech Emotion Recognition and Computational Paralinguistics
-<br>
-2. Audio Deepfake Detection
-<br>
-3. Analyzing Speech for Health-related Applications
-<br>
-4. Analyzing Speech for Forensic Applications
+My reserach interests include Behavioral Signal Processing, Paralinguistic Speech Processing, and Speech Forensics
 
 
 ---
@@ -36,7 +27,9 @@ With specific focus on:
 ### Conference
 
 [comment]: <> (-> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13239">Stress recognition with multi-modal sensing using bootstrapped ensemble deep learning model</a> (Expert Systems 2023, IF: 2.812))
--> <a href="https://arxiv.org/abs/2305.18640">Transforming the Embeddings: A Lightweight Technique for Speech Emotion Recognition Tasks</a> (Accepted @ Interspeech 2023)
+-> <a href="https://arxiv.org/abs/2305.18640">Transforming the Embeddings: A Lightweight Technique for Speech Emotion Recognition Tasks</a> (INTERSPEECH 2023) Authors: Orchid Chetia Phukan, Arun Balaji Buduru, Rajesh Sharma
+<be>
+-> Heterogeneity over Homogeneity: Investigating Multilingual Speech Pre-Trained Models for Detecting Audio Deepfake (Findings of Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL) 2024) Authors: Orchid Chetia Phukan*, Gautam Kashyap*, Arun Balaji Buduru, Rajesh Sharma (*Equal Contribution)
 
 ---
 
