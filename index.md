@@ -1,8 +1,8 @@
 
 ## About Me
 
-Hello! This is Orchid Chetia Phukan. I am currently a Ph.D. Scholar at <a href="https://iiitd.ac.in/">IIIT-Delhi</a>.
-My reserach interests include Behavioral Signal Processing, Paralinguistic Speech Processing, and Speech Forensics.
+Hello! This is Orchid Chetia Phukan. I am currently a Ph.D. Scholar at <a href="https://iiitd.ac.in/">IIIT-Delhi, India</a>.
+My research interests include Behavioral Signal Processing, Paralinguistic Speech Processing, and Speech Forensics.
 
 
 ---
