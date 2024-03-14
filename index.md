@@ -30,7 +30,7 @@ My reserach interests include Behavioral Signal Processing, Paralinguistic Speec
 -> <a href="https://arxiv.org/abs/2305.18640">Transforming the Embeddings: A Lightweight Technique for Speech Emotion Recognition Tasks</a>, INTERSPEECH 2023, Authors: Orchid Chetia Phukan, Arun Balaji Buduru, Rajesh Sharma
 <br>
 <br>
--> Heterogeneity over Homogeneity: Investigating Multilingual Speech Pre-Trained Models for Detecting Audio Deepfake, NAACL (Findings) 2024, Authors: Orchid Chetia Phukan, Gautam Kashyap, Arun Balaji Buduru, Rajesh Sharma (O and G are Joint First Authors)
+-> Heterogeneity over Homogeneity: Investigating Multilingual Speech Pre-Trained Models for Detecting Audio Deepfake, NAACL (Findings) 2024, Authors: Orchid Chetia Phukan, Gautam Kashyap, Arun Balaji Buduru, Rajesh Sharma (O and G are Joint First Authors) (Preprint coming soon!!)
 
 
 ---
