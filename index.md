@@ -27,7 +27,7 @@ My research interests include Behavioral Signal Processing, Paralinguistic Speec
 ### Conference
 
 [comment]: <> (-> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13239">Stress recognition with multi-modal sensing using bootstrapped ensemble deep learning model</a> (Expert Systems 2023, IF: 2.812))
--> <a href="https://arxiv.org/abs/2305.18640">Transforming the Embeddings: A Lightweight Technique for Speech Emotion Recognition Tasks</a>, INTERSPEECH 2023, Authors: Orchid Chetia Phukan, Arun Balaji Buduru, Rajesh Sharma
+-> <a href="https://www.isca-archive.org/interspeech_2023/chetiaphukan23_interspeech.html">Transforming the Embeddings: A Lightweight Technique for Speech Emotion Recognition Tasks</a>, INTERSPEECH 2023, Authors: Orchid Chetia Phukan, Arun Balaji Buduru, Rajesh Sharma
 <br>
 <br>
 -> <a href="https://arxiv.org/abs/2404.00809"> Heterogeneity over Homogeneity: Investigating Multilingual Speech Pre-Trained Models for Detecting Audio Deepfake</a>, NAACL (Findings) 2024, Authors: Orchid Chetia Phukan, Gautam Kashyap, Arun Balaji Buduru, Rajesh Sharma (O and G are Joint First Authors) (Preprint coming soon!!)
