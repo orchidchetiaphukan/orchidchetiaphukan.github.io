@@ -22,7 +22,7 @@ My PhD thesis revolves around "Adapting Foundation Models for Behavioral and For
 
 [comment]: <> (---)
 
-## Selected Publications 
+## Selected Publications (aka First-authored Papers)
 
 ### Conference
 
