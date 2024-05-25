@@ -32,7 +32,7 @@ My thesis revolves around "Adapting Foundation Models for Behavioral and Forensi
 <br>
 -> <a href="https://arxiv.org/abs/2404.00809"> Heterogeneity over Homogeneity: Investigating Multilingual Speech Pre-Trained Models for Detecting Audio Deepfake</a>, NAACL (Findings) 2024, Authors: Orchid Chetia Phukan, Gautam Kashyap, Arun Balaji Buduru, Rajesh Sharma (Orchid and Gautam are Joint First Authors) 
 <br>
-<be>
+<br>
 -> <a href="https://arxiv.org/abs/2404.00827"> SONIC: Synergizing VisiON Foundation Models for Stress RecogNItion from ECG signals</a>, EUSIPCO 2024, Authors: Orchid Chetia Phukan, Ankita Das, Arun Balaji Buduru, Rajesh Sharma (Orchid and Ankita are Joint First Authors) 
 
 
