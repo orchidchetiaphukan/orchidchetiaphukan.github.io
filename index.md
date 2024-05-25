@@ -55,8 +55,8 @@ My thesis revolves around "Adapting Foundation Models for Behavioral and Forensi
 
 ---
 ### Professional Services
--> Reviewer for ASONAM 2023
-
+-> PC Member for ASONAM 2023
+-> PC Member for ASONAM 2024
 ---
 ### Volunteering
 
@@ -69,13 +69,13 @@ My thesis revolves around "Adapting Foundation Models for Behavioral and Forensi
 #### Mentorship
 -> <a href="https://www.linkedin.com/in/ankit-sharma-dev/">Ankit Sharma</a> (IIT Ropar, India, March'23 - May'23) 
 <br>
--> <a href="https://www.linkedin.com/in/shubhamsingh0512/">Shubham Singh</a> (Birla Institute of Technology, Mesra, India, May'23- ) 
+-> <a href="https://www.linkedin.com/in/shubhamsingh0512/">Shubham Singh</a> (Birla Institute of Technology, Mesra, India, May'23- July'24) 
 <br>
--> <a href="https://www.linkedin.com/in/ankita-das-77030016b/">Ankita Das</a> (IIIT Guwahati, India, June'23 - ) 
+-> <a href="https://www.linkedin.com/in/ankita-das-77030016b/">Ankita Das</a> (IIIT Guwahati, India, June'23 - March'24) 
 <br>
--> <a href="https://www.linkedin.com/in/devyani-koshal-392428276/">Devyani Koshal</a> (IIIT Delhi, India, August'23 - ) 
+-> <a href="https://www.linkedin.com/in/devyani-koshal-392428276/">Devyani Koshal</a> (IIIT Delhi, India, August'23 - June'24) 
 <br>
--> Panchal Nayak (VIT Vellore, India, September'23 - ) 
+-> Panchal Nayak (VIT Vellore, India, September'23 - Oct'23) 
 
 
 
