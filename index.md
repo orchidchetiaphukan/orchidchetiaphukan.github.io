@@ -2,7 +2,7 @@
 ## About Me
 
 Hello! This is Orchid Chetia Phukan. I am currently a Ph.D. Scholar at <a href="https://iiitd.ac.in/">IIIT-Delhi, India</a>.
-My research interests include Speech Processing, Behavioral Signal Processing, Speech/Audio Forensics, and Multimedia Forensics.
+My research interests include Speech Processing, Behavioral Signal Processing, Speech/Audio Forensics, Multimedia Forensics, Source Model Attribution, and Biometrics.
 My PhD thesis revolves around "Adapting Foundation Models for Behavioral and Forensic Analysis."
 
 ---
