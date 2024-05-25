@@ -2,8 +2,8 @@
 ## About Me
 
 Hello! This is Orchid Chetia Phukan. I am currently a Ph.D. Scholar at <a href="https://iiitd.ac.in/">IIIT-Delhi, India</a>.
-My research interests include Behavioral Signal Processing, Paralinguistic Speech Processing, and Speech Forensics.
-
+My research interests include Speech Processing, Behavioral Signal Processing, Speech/Audio Forensics, and Multimedia Forensics.
+My thesis revolves around "Adapting Foundation Models for Behavioral and Forensic Analysis."
 
 ---
 
@@ -30,7 +30,10 @@ My research interests include Behavioral Signal Processing, Paralinguistic Speec
 -> <a href="https://www.isca-archive.org/interspeech_2023/chetiaphukan23_interspeech.html">Transforming the Embeddings: A Lightweight Technique for Speech Emotion Recognition Tasks</a>, INTERSPEECH 2023, Authors: Orchid Chetia Phukan, Arun Balaji Buduru, Rajesh Sharma
 <br>
 <br>
--> <a href="https://arxiv.org/abs/2404.00809"> Heterogeneity over Homogeneity: Investigating Multilingual Speech Pre-Trained Models for Detecting Audio Deepfake</a>, NAACL (Findings) 2024, Authors: Orchid Chetia Phukan, Gautam Kashyap, Arun Balaji Buduru, Rajesh Sharma (O and G are Joint First Authors) (Preprint coming soon!!)
+-> <a href="https://arxiv.org/abs/2404.00809"> Heterogeneity over Homogeneity: Investigating Multilingual Speech Pre-Trained Models for Detecting Audio Deepfake</a>, NAACL (Findings) 2024, Authors: Orchid Chetia Phukan, Gautam Kashyap, Arun Balaji Buduru, Rajesh Sharma (Orchid and Gautam are Joint First Authors) 
+<br>
+<be>
+-> <a href="https://arxiv.org/abs/2404.00827"> SONIC: Synergizing VisiON Foundation Models for Stress RecogNItion from ECG signals</a>, EUSIPCO 2024, Authors: Orchid Chetia Phukan, Ankita Das, Arun Balaji Buduru, Rajesh Sharma (Orchid and Ankita are Joint First Authors) 
 
 
 ---
