@@ -3,7 +3,7 @@
 
 Hello! This is Orchid Chetia Phukan. I am currently a Ph.D. Scholar at <a href="https://iiitd.ac.in/">IIIT-Delhi, India</a>.
 My research interests include Speech Processing, Behavioral Signal Processing, Speech/Audio Forensics, Multimedia Forensics, Source Model Attribution, and Biometrics.
-My PhD thesis revolves around "Adapting Foundation Models for Behavioral and Forensic Analysis."
+My PhD thesis revolves around "Analysis and Adaptation of Foundation Models for Behavioral and Forensic Applications."
 
 ---
 
@@ -71,7 +71,7 @@ My PhD thesis revolves around "Adapting Foundation Models for Behavioral and For
 #### Mentorship
 -> <a href="https://www.linkedin.com/in/ankit-sharma-dev/">Ankit Sharma</a> (IIT Ropar, India, March'23 - May'23) 
 <br>
--> <a href="https://www.linkedin.com/in/shubhamsingh0512/">Shubham Singh</a> (Birla Institute of Technology, Mesra, India, May'23- July'24) 
+-> <a href="https://www.linkedin.com/in/shubhamsingh0512/">Shubham Singh</a> (BIT Mesra, India, May'23- July'24) 
 <br>
 -> <a href="https://www.linkedin.com/in/ankita-das-77030016b/">Ankita Das</a> (IIIT Guwahati, India, June'23 - March'24) 
 <br>
