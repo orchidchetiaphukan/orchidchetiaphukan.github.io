@@ -34,7 +34,12 @@ My PhD thesis revolves around "Analysis and Adaptation of Foundation Models for 
 <br>
 <br>
 -> <a href="https://arxiv.org/abs/2404.00827"> SONIC: Synergizing VisiON Foundation Models for Stress RecogNItion from ECG signals</a>, EUSIPCO 2024, Authors: Orchid Chetia Phukan, Ankita Das, Arun Balaji Buduru, Rajesh Sharma (Orchid and Ankita are Joint First Authors) 
-
+<br>
+<br>
+-> <a> Are Paralinguistic Representations all that is needed for Speech Emotion Recognition? </a>, INTERSPEECH 2024, Authors: Orchid Chetia Phukan, Gautam Kashyap, Arun Balaji Buduru, Rajesh Sharma 
+<br>
+<br>
+-> <a> Towards Multilingual Audio-Visual Question Answering </a>, INTERSPEECH 2024, Authors: Orchid Chetia Phukan, Priyabrata Mallick, Swarup Ranjan Behera, Aalekhya Satya Narayani, Arun Balaji Buduru, Rajesh Sharma (Orchid, Priyabrata and Swarup are Joint First Authors) 
 
 ---
 
