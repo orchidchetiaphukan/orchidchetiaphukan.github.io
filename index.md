@@ -6,7 +6,8 @@ My research interests include Speech Processing, Behavioral Signal Processing, S
 My PhD thesis revolves around "Analysis and Adaptation of Foundation Models for Behavioral and Forensic Applications."
 
 ---
-I am always open to collaborations within my research interests. Do ping me @ orchidp@iiitd.ac.in
+I am always open to collaborations within my research interests. Do ping me at orchidp@iiitd.ac.in
+
 ---
 
 [comment]: <> (### Projects)
