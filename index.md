@@ -33,7 +33,7 @@ I am always open to collaborations within my research interests. Do ping me at o
 -> <a href="https://www.isca-archive.org/interspeech_2023/chetiaphukan23_interspeech.html">Transforming the Embeddings: A Lightweight Technique for Speech Emotion Recognition Tasks</a>, INTERSPEECH 2023, Authors: Orchid Chetia Phukan, Arun Balaji Buduru, Rajesh Sharma
 <br>
 <br>
--> <a href="https://arxiv.org/abs/2404.00809"> Heterogeneity over Homogeneity: Investigating Multilingual Speech Pre-Trained Models for Detecting Audio Deepfake</a>, NAACL (Findings) 2024, Authors: Orchid Chetia Phukan, Gautam Kashyap, Arun Balaji Buduru, Rajesh Sharma (Orchid and Gautam are Joint First Authors) 
+-> <a href="https://aclanthology.org/2024.findings-naacl.160/"> Heterogeneity over Homogeneity: Investigating Multilingual Speech Pre-Trained Models for Detecting Audio Deepfake</a>, NAACL (Findings) 2024, Authors: Orchid Chetia Phukan, Gautam Kashyap, Arun Balaji Buduru, Rajesh Sharma (Orchid and Gautam are Joint First Authors) 
 <br>
 <br>
 -> <a href="https://arxiv.org/abs/2404.00827"> SONIC: Synergizing VisiON Foundation Models for Stress RecogNItion from ECG signals</a>, EUSIPCO 2024, Authors: Orchid Chetia Phukan, Ankita Das, Arun Balaji Buduru, Rajesh Sharma (Orchid and Ankita are Joint First Authors) 
@@ -42,7 +42,7 @@ I am always open to collaborations within my research interests. Do ping me at o
 -> <a> Are Paralinguistic Representations all that is needed for Speech Emotion Recognition? </a>, INTERSPEECH 2024, Authors: Orchid Chetia Phukan, Gautam Kashyap, Arun Balaji Buduru, Rajesh Sharma 
 <br>
 <br>
--> <a> Towards Multilingual Audio-Visual Question Answering </a>, INTERSPEECH 2024, Authors: Orchid Chetia Phukan, Priyabrata Mallick, Swarup Ranjan Behera, Aalekhya Satya Narayani, Arun Balaji Buduru, Rajesh Sharma (Orchid, Priyabrata and Swarup are Joint First Authors) 
+-> <a href="https://arxiv.org/abs/2406.09156"> Towards Multilingual Audio-Visual Question Answering </a>, INTERSPEECH 2024, Authors: Orchid Chetia Phukan, Priyabrata Mallick, Swarup Ranjan Behera, Aalekhya Satya Narayani, Arun Balaji Buduru, Rajesh Sharma (Orchid, Priyabrata and Swarup are Joint First Authors) 
 
 ---
 
