@@ -43,7 +43,9 @@ I am always open to collaborations within my research interests. Do ping me at o
 <br>
 <br>
 -> <a href="https://arxiv.org/abs/2406.09156"> Towards Multilingual Audio-Visual Question Answering </a>, INTERSPEECH 2024, Authors: Orchid Chetia Phukan, Priyabrata Mallick, Swarup Ranjan Behera, Aalekhya Satya Narayani, Arun Balaji Buduru, Rajesh Sharma (Orchid, Priyabrata and Swarup are Joint First Authors) 
-
+<br>
+<br>
+-> <a href=""> Whispers of Trauma: Leveraging Social Media for Assessing Mental Health in Victims of Childhood Sexual Abuse </a>, ASONAM 2024, Authors: Orchid Chetia Phukan, Rajesh Sharma, Arun Balaji Buduru
 ---
 
 ### Talks, Honors and Achievements
