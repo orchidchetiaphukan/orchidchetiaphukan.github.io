@@ -39,10 +39,10 @@ I am always open to collaborations within my research interests. Do ping me at o
 -> <a href="https://arxiv.org/abs/2404.00827"> SONIC: Synergizing VisiON Foundation Models for Stress RecogNItion from ECG signals</a>, EUSIPCO 2024 (Oral), Authors: Orchid Chetia Phukan, Ankita Das, Arun Balaji Buduru, Rajesh Sharma (Orchid and Ankita are Joint First Authors) 
 <br>
 <br>
--> <a href=""> Are Paralinguistic Representations all that is needed for Speech Emotion Recognition? </a>, INTERSPEECH 2024, Authors: Orchid Chetia Phukan, Gautam Kashyap, Arun Balaji Buduru, Rajesh Sharma 
+-> <a href=""> Are Paralinguistic Representations all that is needed for Speech Emotion Recognition? </a>, INTERSPEECH 2024 (Poster), Authors: Orchid Chetia Phukan, Gautam Kashyap, Arun Balaji Buduru, Rajesh Sharma 
 <br>
 <br>
--> <a href="https://arxiv.org/abs/2406.09156"> Towards Multilingual Audio-Visual Question Answering </a>, INTERSPEECH 2024, Authors: Orchid Chetia Phukan, Priyabrata Mallick, Swarup Ranjan Behera, Aalekhya Satya Narayani, Arun Balaji Buduru, Rajesh Sharma (Orchid, Priyabrata and Swarup are Joint First Authors) 
+-> <a href="https://arxiv.org/abs/2406.09156"> Towards Multilingual Audio-Visual Question Answering </a>, INTERSPEECH 2024 (Poster), Authors: Orchid Chetia Phukan, Priyabrata Mallick, Swarup Ranjan Behera, Aalekhya Satya Narayani, Arun Balaji Buduru, Rajesh Sharma (Orchid, Priyabrata and Swarup are Joint First Authors) 
 <br>
 <br>
 -> <a href=""> Whispers of Trauma: Leveraging Social Media for Assessing Mental Health in Victims of Childhood Sexual Abuse </a>, ASONAM 2024, Authors: Orchid Chetia Phukan, Rajesh Sharma, Arun Balaji Buduru
