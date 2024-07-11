@@ -55,6 +55,14 @@ I am always open to collaborations within my research interests. Do ping me at o
 
 ---
 
+### Awarded Grants
+
+-> ISCA grant for registration and travel to INTERSPEECH 24
+<br>
+-> EURASIP grant for registration and travel to EUSIPCO 24
+
+---
+
 ### Experience
 
 -> Research Intern at <a href="https://aiisc.ai/">AI Institute at University of South Carolina</a>  (Dec'21 - June'22)
