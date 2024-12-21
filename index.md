@@ -49,6 +49,8 @@ I am always open to collaborations within my research interests. Do ping me at o
 <br>
 <br>
 -> <a href="https://arxiv.org/abs/2409.14221"> Strong Alone, Stronger Together: Synergizing Modality-Binding Foundation Models with Optimal Transport for Non-Verbal Emotion Recognition </a>, ICASSP 2025, Authors: Orchid Chetia Phukan, Mohd Mujtaba Akhtar∗, Girish∗, Swarup Ranjan Behera, Sishir Kalita, Arun Balaji Buduru, Rajesh Sharma, S.R Mahadeva Prasanna (* equal contribution) 
+
+
 ---
 
 ### Talks, Honors and Achievements
