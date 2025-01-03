@@ -3,10 +3,11 @@
 
 Hello! This is Orchid Chetia Phukan. I am currently a Ph.D. Scholar at <a href="https://iiitd.ac.in/">IIIT-Delhi, India</a>.
 My research interests include Speech and Audio Processing. Currently, I am interested in the adaptation of speech and audio foundation models for behavioral (e.g., speech emotion recognition) and forensic applications (e.g., audio deepfake detection). 
-[comment]: <> (My PhD thesis: "Taming the Dragon: Towards Adaptation of Foundation Models for Behavioral and Forensic Analysis".)
+
 
 ---
-I am looking for Postdoc opportunities for Spring 2026. I am looking for positions in speech and audio processing. Specifically, audio deepfake detection/anti-spoofing/audio-visual deepfake detection, speech/multimodal emotion recognition/affective computing, and speech + health. I am also open to related topics revolving speech and audio processing. If you have such opportunities, please reach out to me: orchidp@iiitd.ac.in
+I am looking for Postdoc opportunities for Spring 2026. I am looking for positions in speech and audio processing. Specifically, audio deepfake detection/anti-spoofing/audio-visual deepfake detection, speech/multimodal emotion recognition/affective computing, and speech + health. I am also open to related topics revolving speech and audio processing. If you have such opportunities, please reach out to me at orchidp@iiitd.ac.in.
+
 ---
 
 ---
