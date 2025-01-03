@@ -1,7 +1,7 @@
 
 ## About Me
 
-Hello! This is Orchid Chetia Phukan. I am currently a (final-year) Ph.D. Scholar at <a href="https://iiitd.ac.in/">IIIT-Delhi, India</a>.
+Hello! This is Orchid Chetia Phukan. I am a (final-year) Ph.D. Scholar at <a href="https://iiitd.ac.in/">IIIT-Delhi, India</a>.
 My research interests include Speech and Audio Processing. Currently, I am interested in the adaptation of speech and audio foundation models for behavioral (e.g., speech emotion recognition) and forensic applications (e.g., audio deepfake detection). 
 
 
