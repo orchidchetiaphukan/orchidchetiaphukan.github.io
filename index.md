@@ -6,7 +6,7 @@ My research interests include Speech and Audio Processing. Currently, I am inter
 
 
 ---
-I am looking for Postdoc opportunities for Spring 2026. I am looking for positions in speech and audio processing. Specifically, audio deepfake detection/anti-spoofing/audio-visual deepfake detection, speech/multimodal emotion recognition/affective computing, and speech + health. I am also open to related topics revolving speech and audio processing. If you have such opportunities, please reach out to me at orchidp@iiitd.ac.in.
+I am looking for Postdoc opportunities for Spring 2026. I am looking for positions in speech and audio processing. Specifically, audio deepfake detection/anti-spoofing/audio-visual deepfake detection, speech/multimodal emotion recognition/affective computing, and speech + health. I am also open to related topics other than those mentioned above within speech and audio processing. If you have such opportunities, please reach out to me at orchidp@iiitd.ac.in.
 
 ---
 I am always open to collaborations within my research interests. Do ping me at orchidp@iiitd.ac.in
