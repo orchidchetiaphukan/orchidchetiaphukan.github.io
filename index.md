@@ -83,6 +83,12 @@ I am always open to collaborations within my research interests. Do ping me at o
 -> PC Member for ASONAM 2023
 <br>
 -> PC Member for ASONAM 2024
+<br>
+-> Reviewer for COLING 2025
+<br>
+-> Reviewer for ICME 2025
+<br>
+-> Reviewer for Engineering Applications of Artificial Intelligence Journal
 
 ---
 ### Volunteering
