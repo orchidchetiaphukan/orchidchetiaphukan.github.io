@@ -32,26 +32,38 @@ I am always open to collaborations within my research interests. Do ping me at o
 
 ### Conference (* equal contribution)
 
-[comment]: <> (-> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13239">Stress recognition with multi-modal sensing using bootstrapped ensemble deep learning model</a> (Expert Systems 2023, IF: 2.812))
--> <a href="https://www.isca-archive.org/interspeech_2023/chetiaphukan23_interspeech.html">Transforming the Embeddings: A Lightweight Technique for Speech Emotion Recognition Tasks</a>, INTERSPEECH 2023, Authors: Orchid Chetia Phukan, Arun Balaji Buduru, Rajesh Sharma
+
+-> <a href="">Investigating Prosodic Signatures via Speech Pre-Trained Models for Audio Deepfake Source Attribution</a>, ACL (Findings) 2025, Authors: Orchid Chetia Phukan∗,  Drishti Singh∗, Swarup Ranjan Behera, Arun Balaji Buduru, Rajesh Sharma
 <br>
 <br>
--> <a href="https://aclanthology.org/2024.findings-naacl.160/"> Heterogeneity over Homogeneity: Investigating Multilingual Speech Pre-Trained Models for Detecting Audio Deepfake</a>, NAACL (Findings) 2024, Authors: Orchid Chetia Phukan∗, Gautam Kashyap∗, Arun Balaji Buduru, Rajesh Sharma 
-<br>
-<br>
--> <a href="https://arxiv.org/abs/2404.00827"> SONIC: Synergizing VisiON Foundation Models for Stress RecogNItion from ECG signals</a>, EUSIPCO 2024 (Oral), Authors: Orchid Chetia Phukan∗, Ankita Das∗, Arun Balaji Buduru, Rajesh Sharma 
-<br>
-<br>
--> <a href=""> Are Paralinguistic Representations all that is needed for Speech Emotion Recognition? </a>, INTERSPEECH 2024, Authors: Orchid Chetia Phukan, Gautam Kashyap, Arun Balaji Buduru, Rajesh Sharma 
-<br>
-<br>
--> <a href="https://arxiv.org/abs/2406.09156"> Towards Multilingual Audio-Visual Question Answering </a>, INTERSPEECH 2024, Authors: Orchid Chetia Phukan∗, Priyabrata Mallick∗, Swarup Ranjan Behera∗, Aalekhya Satya Narayani, Arun Balaji Buduru, Rajesh Sharma 
+-> <a href="https://arxiv.org/abs/2409.14221"> Strong Alone, Stronger Together: Synergizing Modality-Binding Foundation Models with Optimal Transport for Non-Verbal Emotion Recognition </a>, ICASSP 2025, Authors: Orchid Chetia Phukan, Mohd Mujtaba Akhtar∗, Girish∗, Swarup Ranjan Behera, Sishir Kalita, Arun Balaji Buduru, Rajesh Sharma, S.R Mahadeva Prasanna 
 <br>
 <br>
 -> <a href=""> Whispers of Trauma: Leveraging Social Media for Assessing Mental Health in Victims of Childhood Sexual Abuse </a>, ASONAM 2024, Authors: Orchid Chetia Phukan, Rajesh Sharma, Arun Balaji Buduru
 <br>
 <br>
--> <a href="https://arxiv.org/abs/2409.14221"> Strong Alone, Stronger Together: Synergizing Modality-Binding Foundation Models with Optimal Transport for Non-Verbal Emotion Recognition </a>, ICASSP 2025, Authors: Orchid Chetia Phukan, Mohd Mujtaba Akhtar∗, Girish∗, Swarup Ranjan Behera, Sishir Kalita, Arun Balaji Buduru, Rajesh Sharma, S.R Mahadeva Prasanna 
+-> <a href="https://arxiv.org/abs/2406.09156"> Towards Multilingual Audio-Visual Question Answering </a>, INTERSPEECH 2024, Authors: Orchid Chetia Phukan∗, Priyabrata Mallick∗, Swarup Ranjan Behera∗, Aalekhya Satya Narayani, Arun Balaji Buduru, Rajesh Sharma 
+<br>
+<br>
+-> <a href=""> Are Paralinguistic Representations all that is needed for Speech Emotion Recognition? </a>, INTERSPEECH 2024, Authors: Orchid Chetia Phukan, Gautam Kashyap, Arun Balaji Buduru, Rajesh Sharma 
+<br>
+<br>
+-> <a href="https://arxiv.org/abs/2404.00827"> SONIC: Synergizing VisiON Foundation Models for Stress RecogNItion from ECG signals</a>, EUSIPCO 2024 (Oral), Authors: Orchid Chetia Phukan∗, Ankita Das∗, Arun Balaji Buduru, Rajesh Sharma 
+<br>
+<br>
+-> <a href="https://aclanthology.org/2024.findings-naacl.160/"> Heterogeneity over Homogeneity: Investigating Multilingual Speech Pre-Trained Models for Detecting Audio Deepfake</a>, NAACL (Findings) 2024, Authors: Orchid Chetia Phukan∗, Gautam Kashyap∗, Arun Balaji Buduru, Rajesh Sharma 
+<br>
+<br>
+-> <a href="https://www.isca-archive.org/interspeech_2023/chetiaphukan23_interspeech.html">Transforming the Embeddings: A Lightweight Technique for Speech Emotion Recognition Tasks</a>, INTERSPEECH 2023, Authors: Orchid Chetia Phukan, Arun Balaji Buduru, Rajesh Sharma
+<br>
+<br>
+[comment]: <> (-> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/exsy.13239">Stress recognition with multi-modal sensing using bootstrapped ensemble deep learning model</a> (Expert Systems 2023, IF: 2.812))
+
+
+
+
+
+
 
 ---
 
